@@ -1,0 +1,1 @@
+# first-attemp-setup-for-cms-adaptable
